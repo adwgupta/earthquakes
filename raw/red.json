@@ -1,0 +1,941 @@
+{
+    "bbox": [
+        -122.3123333,
+        -0.2559,
+        4.44,
+        141.5793,
+        42.9564,
+        47.39
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    141.5793,
+                    37.7132,
+                    41
+                ],
+                "type": "Point"
+            },
+            "id": "us6000h519",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.5,
+                "code": "6000h519",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h519&format=geojson",
+                "dmin": 2.936,
+                "felt": 459,
+                "gap": 29,
+                "ids": ",pt22075004,us6000h519,at00r8udwu,usauto6000h519,",
+                "mag": 7.3,
+                "magType": "mww",
+                "mmi": 7.905,
+                "net": "us",
+                "nst": null,
+                "place": "57 km ENE of Namie, Japan",
+                "rms": 0.88,
+                "sig": 2390,
+                "sources": ",pt,us,at,usauto,",
+                "status": "reviewed",
+                "time": 1647441390997,
+                "title": "M 7.3 - 57 km ENE of Namie, Japan",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-link,impact-text,internal-moment-tensor,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1668000482042,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h519"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    56.0716,
+                    27.7266,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us7000fu12",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.6,
+                "code": "7000fu12",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000fu12&format=geojson",
+                "dmin": 2.772,
+                "felt": 207,
+                "gap": 52,
+                "ids": ",us7000fu12,",
+                "mag": 6.4,
+                "magType": "mwb",
+                "mmi": 8.689,
+                "net": "us",
+                "nst": null,
+                "place": "63 km NNW of Bandar Abbas, Iran",
+                "rms": 0.9,
+                "sig": 2178,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1636891718812,
+                "title": "M 6.4 - 63 km NNW of Bandar Abbas, Iran",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1656718635394,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fu12"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    105.365,
+                    29.1944,
+                    7.12
+                ],
+                "type": "Point"
+            },
+            "id": "us7000fbky",
+            "properties": {
+                "alert": "red",
+                "cdi": 7.3,
+                "code": "7000fbky",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000fbky&format=geojson",
+                "dmin": 3.749,
+                "felt": 24,
+                "gap": 19,
+                "ids": ",us7000fbky,usauto7000fbky,",
+                "mag": 5.4,
+                "magType": "mww",
+                "mmi": 7.413,
+                "net": "us",
+                "nst": null,
+                "place": "52 km SE of Neijiang, China",
+                "rms": 0.67,
+                "sig": 2018,
+                "sources": ",us,usauto,",
+                "status": "reviewed",
+                "time": 1631738011851,
+                "title": "M 5.4 - 52 km SE of Neijiang, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,impact-text,internal-moment-tensor,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1654795782074,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fbky"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.753,
+                    16.9465,
+                    20
+                ],
+                "type": "Point"
+            },
+            "id": "us7000f93v",
+            "properties": {
+                "alert": "red",
+                "cdi": 7.7,
+                "code": "7000f93v",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000f93v&format=geojson",
+                "dmin": 0.07,
+                "felt": 655,
+                "gap": 43,
+                "ids": ",at00qz3ebs,pt21251050,us7000f93v,usauto7000f93v,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 7.735,
+                "net": "us",
+                "nst": null,
+                "place": "Acapulco, Mexico",
+                "rms": 0.64,
+                "sig": 2504,
+                "sources": ",at,pt,us,usauto,",
+                "status": "reviewed",
+                "time": 1631065667437,
+                "title": "M 7.0 - Acapulco, Mexico",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",dyfi,earthquake-name,finite-fault,general-text,ground-failure,impact-link,impact-text,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1660305845428,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f93v"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.4822,
+                    18.4335,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us6000f65h",
+            "properties": {
+                "alert": "red",
+                "cdi": 9.1,
+                "code": "6000f65h",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000f65h&format=geojson",
+                "dmin": 1.178,
+                "felt": 364,
+                "gap": 23,
+                "ids": ",at00qxtxcn,pt21226002,us6000f65h,usauto6000f65h,",
+                "mag": 7.2,
+                "magType": "mww",
+                "mmi": 8.425,
+                "net": "us",
+                "nst": null,
+                "place": "Nippes, Haiti",
+                "rms": 0.75,
+                "sig": 2331,
+                "sources": ",at,pt,us,usauto,",
+                "status": "reviewed",
+                "time": 1628944148454,
+                "title": "M 7.2 - Nippes, Haiti",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",dyfi,earthquake-name,finite-fault,general-text,ground-failure,impact-link,impact-text,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1668393565723,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f65h"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    92.4565,
+                    26.7813,
+                    34
+                ],
+                "type": "Point"
+            },
+            "id": "us7000dy3b",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.5,
+                "code": "7000dy3b",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000dy3b&format=geojson",
+                "dmin": 1.324,
+                "felt": 268,
+                "gap": 11,
+                "ids": ",us7000dy3b,usauto7000dy3b,at00qs957r,pt21118000,",
+                "mag": 6,
+                "magType": "mww",
+                "mmi": 7.049,
+                "net": "us",
+                "nst": null,
+                "place": "8 km NNW of Dhekiajuli, India",
+                "rms": 0.79,
+                "sig": 2228,
+                "sources": ",us,usauto,at,pt,",
+                "status": "reviewed",
+                "time": 1619576486212,
+                "title": "M 6.0 - 8 km NNW of Dhekiajuli, India",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,ground-failure,impact-text,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1640143252001,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dy3b"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.6784,
+                    29.7531,
+                    8
+                ],
+                "type": "Point"
+            },
+            "id": "us6000e2k3",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.8,
+                "code": "6000e2k3",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000e2k3&format=geojson",
+                "dmin": 6.793,
+                "felt": 74,
+                "gap": 45,
+                "ids": ",us6000e2k3,usauto6000e2k3,pt21108001,at00qrqyln,",
+                "mag": 5.8,
+                "magType": "mww",
+                "mmi": 8.369,
+                "net": "us",
+                "nst": null,
+                "place": "24 km NE of Bandar-e Gen?veh, Iran",
+                "rms": 0.64,
+                "sig": 2065,
+                "sources": ",us,usauto,pt,at,",
+                "status": "reviewed",
+                "time": 1618728109595,
+                "title": "M 5.8 - 24 km NE of Bandar-e Gen?veh, Iran",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,ground-failure,impact-text,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1660020038562,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000e2k3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    104.9333,
+                    28.4056,
+                    6
+                ],
+                "type": "Point"
+            },
+            "id": "us600041ry",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.2,
+                "code": "600041ry",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us600041ry&format=geojson",
+                "dmin": 4.396,
+                "felt": 71,
+                "gap": 18,
+                "ids": ",us600041ry,",
+                "mag": 5.8,
+                "magType": "mww",
+                "mmi": 7.744,
+                "net": "us",
+                "nst": null,
+                "place": "22 km ESE of Xunchang, China",
+                "rms": 0.61,
+                "sig": 2058,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1560783344876,
+                "title": "M 5.8 - 22 km ESE of Xunchang, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1662173629531,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us600041ry"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    119.8462,
+                    -0.2559,
+                    20
+                ],
+                "type": "Point"
+            },
+            "id": "us1000h3p4",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.5,
+                "code": "1000h3p4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us1000h3p4&format=geojson",
+                "dmin": 1.649,
+                "felt": 30,
+                "gap": 13,
+                "ids": ",us1000h3p4,iscgem616642238,",
+                "mag": 7.5,
+                "magType": "mww",
+                "mmi": 8.367,
+                "net": "us",
+                "nst": null,
+                "place": "72 km N of Palu, Indonesia",
+                "rms": 1,
+                "sig": 2026,
+                "sources": ",us,iscgem,",
+                "status": "reviewed",
+                "time": 1538128965250,
+                "title": "M 7.5 - 72 km N of Palu, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1651607827729,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000h3p4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.6389,
+                    34.8246,
+                    10.34
+                ],
+                "type": "Point"
+            },
+            "id": "us1000eu1c",
+            "properties": {
+                "alert": "red",
+                "cdi": 7.9,
+                "code": "1000eu1c",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us1000eu1c&format=geojson",
+                "dmin": 1.254,
+                "felt": 531,
+                "gap": 22,
+                "ids": ",us1000eu1c,iscgem612142414,",
+                "mag": 5.5,
+                "magType": "mww",
+                "mmi": 7.508,
+                "net": "us",
+                "nst": null,
+                "place": "near the south coast of western Honshu, Japan",
+                "rms": 0.7,
+                "sig": 2419,
+                "sources": ",us,iscgem,",
+                "status": "reviewed",
+                "time": 1529276314770,
+                "title": "M 5.5 - near the south coast of western Honshu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1651605565156,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000eu1c"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.9592,
+                    34.9109,
+                    19
+                ],
+                "type": "Point"
+            },
+            "id": "us2000bmcg",
+            "properties": {
+                "alert": "red",
+                "cdi": 7.9,
+                "code": "2000bmcg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000bmcg&format=geojson",
+                "dmin": 0.284,
+                "felt": 1566,
+                "gap": 33,
+                "ids": ",us2000bmcg,iscgem617943542,",
+                "mag": 7.3,
+                "magType": "mww",
+                "mmi": 8.663,
+                "net": "us",
+                "nst": null,
+                "place": "29 km S of ?alabja, Iraq",
+                "rms": 1.29,
+                "sig": 2790,
+                "sources": ",us,iscgem,",
+                "status": "reviewed",
+                "time": 1510510697180,
+                "title": "M 7.3 - 29 km S of ?alabja, Iraq",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1651608156492,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000bmcg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.8993,
+                    15.0222,
+                    47.39
+                ],
+                "type": "Point"
+            },
+            "id": "us2000ahv0",
+            "properties": {
+                "alert": "red",
+                "cdi": 9.1,
+                "code": "2000ahv0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000ahv0&format=geojson",
+                "dmin": 0.944,
+                "felt": 2648,
+                "gap": 22,
+                "ids": ",at00ovy2q7,pt17251000,us2000ahv0,iscgem611600536,",
+                "mag": 8.2,
+                "magType": "mww",
+                "mmi": 7.398,
+                "net": "us",
+                "nst": null,
+                "place": "near the coast of Chiapas, Mexico",
+                "rms": 1.22,
+                "sig": 2910,
+                "sources": ",at,pt,us,iscgem,",
+                "status": "reviewed",
+                "time": 1504846159180,
+                "title": "M 8.2 - near the coast of Chiapas, Mexico",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-link,general-text,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,",
+                "tz": null,
+                "updated": 1663651667790,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000ahv0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.0961,
+                    42.8621,
+                    8
+                ],
+                "type": "Point"
+            },
+            "id": "us1000731j",
+            "properties": {
+                "alert": "red",
+                "cdi": 9.1,
+                "code": "1000731j",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us1000731j&format=geojson",
+                "dmin": 0.174,
+                "felt": 923,
+                "gap": 25,
+                "ids": ",us1000731j,gcmt20161030064019,iscgem609624987,",
+                "mag": 6.6,
+                "magType": "mww",
+                "mmi": 7.945,
+                "net": "us",
+                "nst": null,
+                "place": "5 km ESE of Preci, Italy",
+                "rms": 0.67,
+                "sig": 2840,
+                "sources": ",us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 1477809618670,
+                "title": "M 6.6 - 5 km ESE of Preci, Italy",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-text,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1668269106567,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000731j"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.0666,
+                    42.9564,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us1000725y",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.6,
+                "code": "1000725y",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us1000725y&format=geojson",
+                "dmin": 0.081,
+                "felt": 521,
+                "gap": 17,
+                "ids": ",us1000725y,gcmt20161026191808,iscgem612638074,",
+                "mag": 6.1,
+                "magType": "mww",
+                "mmi": 7.408,
+                "net": "us",
+                "nst": null,
+                "place": "2 km NNW of Visso, Italy",
+                "rms": 0.71,
+                "sig": 2448,
+                "sources": ",us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 1477509488430,
+                "title": "M 6.1 - 2 km NNW of Visso, Italy",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-text,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1651606106446,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000725y"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.1877,
+                    42.723,
+                    4.44
+                ],
+                "type": "Point"
+            },
+            "id": "us10006g7d",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.9,
+                "code": "10006g7d",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10006g7d&format=geojson",
+                "dmin": 0.123,
+                "felt": 770,
+                "gap": 25,
+                "ids": ",us10006g7d,gcmt20160824013633,iscgem611462212,atlas20160824013633,",
+                "mag": 6.2,
+                "magType": "mww",
+                "mmi": 7.373,
+                "net": "us",
+                "nst": null,
+                "place": "5 km WNW of Accumoli, Italy",
+                "rms": 0.68,
+                "sig": 2685,
+                "sources": ",us,gcmt,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1472002592870,
+                "title": "M 6.2 - 5 km WNW of Accumoli, Italy",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-link,general-text,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1651603231562,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10006g7d"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.7543,
+                    32.7906,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us20005iis",
+            "properties": {
+                "alert": "red",
+                "cdi": 9.1,
+                "code": "20005iis",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005iis&format=geojson",
+                "dmin": 0.349,
+                "felt": 80,
+                "gap": 32,
+                "ids": ",at00o5oo9v,pt16106053,us20005iis,gcmt20160415162506,iscgem610289055,atlas20160415162506,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 8.717,
+                "net": "us",
+                "nst": null,
+                "place": "6 km ESE of Kumamoto, Japan",
+                "rms": 0.85,
+                "sig": 2073,
+                "sources": ",at,pt,us,gcmt,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1460737506220,
+                "title": "M 7.0 - 6 km ESE of Kumamoto, Japan",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-text,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,",
+                "tz": null,
+                "updated": 1659990364598,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005iis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.7042,
+                    32.788,
+                    9
+                ],
+                "type": "Point"
+            },
+            "id": "us20005hzn",
+            "properties": {
+                "alert": "red",
+                "cdi": 7.9,
+                "code": "20005hzn",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005hzn&format=geojson",
+                "dmin": 0.366,
+                "felt": 30,
+                "gap": 18,
+                "ids": ",us20005hzn,gcmt20160414122636,iscgem613397458,atlas20160414122635,",
+                "mag": 6.2,
+                "magType": "mww",
+                "mmi": 7.33,
+                "net": "us",
+                "nst": null,
+                "place": "2 km SSE of Kumamoto, Japan",
+                "rms": 1.14,
+                "sig": 2024,
+                "sources": ",us,gcmt,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1460636795730,
+                "title": "M 6.2 - 2 km SSE of Kumamoto, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-text,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1651606459447,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005hzn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    84.7314,
+                    28.2305,
+                    8.22
+                ],
+                "type": "Point"
+            },
+            "id": "us20002926",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.2,
+                "code": "20002926",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20002926&format=geojson",
+                "dmin": 1.857,
+                "felt": 1118,
+                "gap": 12,
+                "ids": ",us20002926,gcmt20150425061126,iscgem607208674,atlas20150425061125,",
+                "mag": 7.8,
+                "magType": "mww",
+                "mmi": 8.718,
+                "net": "us",
+                "nst": null,
+                "place": "67 km NNE of Bharatpur, Nepal",
+                "rms": 0.96,
+                "sig": 2820,
+                "sources": ",us,gcmt,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1429942285950,
+                "title": "M 7.8 - 67 km NNE of Bharatpur, Nepal",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-text,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1668135163715,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002926"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3123333,
+                    38.2151667,
+                    11.12
+                ],
+                "type": "Point"
+            },
+            "id": "nc72282711",
+            "properties": {
+                "alert": "red",
+                "cdi": 7.6,
+                "code": "72282711",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc72282711&format=geojson",
+                "dmin": 0.03604,
+                "felt": 16679,
+                "gap": 28,
+                "ids": ",at00nat3ek,nc72282711,usb000s5tp,iscgem610572079,atlas20140824102044,",
+                "mag": 6.02,
+                "magType": "mw",
+                "mmi": 8.197,
+                "net": "nc",
+                "nst": 369,
+                "place": "South Napa",
+                "rms": 0.18,
+                "sig": 2760,
+                "sources": ",at,nc,us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1408875644070,
+                "title": "M 6.0 - South Napa",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,focal-mechanism,general-link,ground-failure,image,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,scitech-link,shakemap,",
+                "tz": null,
+                "updated": 1651601875653,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc72282711"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.4086,
+                    27.1891,
+                    12
+                ],
+                "type": "Point"
+            },
+            "id": "usb000rzmg",
+            "properties": {
+                "alert": "red",
+                "cdi": 7.3,
+                "code": "b000rzmg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000rzmg&format=geojson",
+                "dmin": 2.143,
+                "felt": 10,
+                "gap": 13,
+                "ids": ",usb000rzmg,iscgem605131010,atlas20140803083013,",
+                "mag": 6.2,
+                "magType": "mww",
+                "mmi": 8.031,
+                "net": "us",
+                "nst": null,
+                "place": "33 km WSW of Zhaotong, China",
+                "rms": 1,
+                "sig": 2007,
+                "sources": ",us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1407054613570,
+                "title": "M 6.2 - 33 km WSW of Zhaotong, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1658870434640,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000rzmg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    65.5009,
+                    26.951,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "usb000jyiv",
+            "properties": {
+                "alert": "red",
+                "cdi": 4.5,
+                "code": "b000jyiv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000jyiv&format=geojson",
+                "dmin": 7.241,
+                "felt": 34,
+                "gap": 17,
+                "ids": ",usb000jyiv,iscgem608458290,atlas20130924112947,",
+                "mag": 7.7,
+                "magType": "mww",
+                "mmi": 8.188,
+                "net": "us",
+                "nst": null,
+                "place": "113 km NW of Bela, Pakistan",
+                "rms": 0.93,
+                "sig": 2015,
+                "sources": ",us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1380022187970,
+                "title": "M 7.7 - 113 km NW of Bela, Pakistan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,",
+                "tz": null,
+                "updated": 1659808553937,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000jyiv"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    102.888,
+                    30.308,
+                    14
+                ],
+                "type": "Point"
+            },
+            "id": "usb000gcdd",
+            "properties": {
+                "alert": "red",
+                "cdi": 8.4,
+                "code": "b000gcdd",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000gcdd&format=geojson",
+                "dmin": null,
+                "felt": 99,
+                "gap": 12.6,
+                "ids": ",usb000gcdd,iscgem607304721,atlas20130420000247,",
+                "mag": 6.6,
+                "magType": "mww",
+                "mmi": 7.83,
+                "net": "us",
+                "nst": 548,
+                "place": "56 km WSW of Linqiong, China",
+                "rms": 1.08,
+                "sig": 2083,
+                "sources": ",us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1366416167540,
+                "title": "M 6.6 - 56 km WSW of Linqiong, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,focal-mechanism,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,",
+                "tz": null,
+                "updated": 1661571235641,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000gcdd"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.2953333,
+                    32.2861667,
+                    9.987
+                ],
+                "type": "Point"
+            },
+            "id": "ci14607652",
+            "properties": {
+                "alert": "red",
+                "cdi": 9.1,
+                "code": "14607652",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci14607652&format=geojson",
+                "dmin": 0.5137,
+                "felt": 68044,
+                "gap": 239,
+                "ids": ",ci14607652,atlas20100404224043,duputel201004042240a,choy20100404224043,gcmtc201004042240a,usp000habu,gcmt20100404224043,iscgem600257057,",
+                "mag": 7.2,
+                "magType": "mw",
+                "mmi": 8.578,
+                "net": "ci",
+                "nst": 10,
+                "place": "12km SW of Delta, B.C., MX",
+                "rms": 0.11,
+                "sig": 2910,
+                "sources": ",ci,atlas,duputel,choy,gcmt,us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 1270420842360,
+                "title": "M 7.2 - 12km SW of Delta, B.C., MX",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,disassociate,dyfi,focal-mechanism,general-text,ground-failure,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1665156014228,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci14607652"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.13.6",
+        "count": 23,
+        "generated": 1668533946000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&alertlevel=red&starttime=2002-10-02&endtime=2022-11-02"
+    },
+    "type": "FeatureCollection"
+}

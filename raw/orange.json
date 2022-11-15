@@ -1,0 +1,1781 @@
+{
+    "bbox": [
+        -149.9552,
+        -43.4798,
+        4,
+        173.054,
+        61.3464,
+        231
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.0259,
+                    38.5064,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "us6000iqx6",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.2,
+                "code": "6000iqx6",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000iqx6&format=geojson",
+                "dmin": 1.558,
+                "felt": 48,
+                "gap": 67,
+                "ids": ",us6000iqx6,usauto6000iqx6,pt22278000,",
+                "mag": 5.6,
+                "magType": "mww",
+                "mmi": 6.927,
+                "net": "us",
+                "nst": 105,
+                "place": "8 km SE of Khowy, Iran",
+                "rms": 0.67,
+                "sig": 1035,
+                "sources": ",us,usauto,pt,",
+                "status": "reviewed",
+                "time": 1664929289702,
+                "title": "M 5.6 - 8 km SE of Khowy, Iran",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,impact-text,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1668383588095,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000iqx6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    102.236,
+                    29.6786,
+                    12
+                ],
+                "type": "Point"
+            },
+            "id": "us7000i59t",
+            "properties": {
+                "alert": "orange",
+                "cdi": 8.9,
+                "code": "7000i59t",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000i59t&format=geojson",
+                "dmin": 8.454,
+                "felt": 46,
+                "gap": 34,
+                "ids": ",us7000i59t,usauto7000i59t,at00rhq07d,pt22248000,",
+                "mag": 6.6,
+                "magType": "mww",
+                "mmi": 8.019,
+                "net": "us",
+                "nst": 141,
+                "place": "44 km SE of Kangding, China",
+                "rms": 0.52,
+                "sig": 1041,
+                "sources": ",us,usauto,at,pt,",
+                "status": "reviewed",
+                "time": 1662353539645,
+                "title": "M 6.6 - 44 km SE of Kangding, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,ground-failure,impact-text,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1667863187737,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000i59t"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.4639,
+                    33.0203,
+                    4
+                ],
+                "type": "Point"
+            },
+            "id": "us7000hj3u",
+            "properties": {
+                "alert": "orange",
+                "cdi": 8.7,
+                "code": "7000hj3u",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000hj3u&format=geojson",
+                "dmin": 1.557,
+                "felt": 84,
+                "gap": 15,
+                "ids": ",us7000hj3u,usauto7000hj3u,pt22172002,at00rdui34,",
+                "mag": 6,
+                "magType": "mww",
+                "mmi": 8.153,
+                "net": "us",
+                "nst": 206,
+                "place": "55 km SW of Kh?st, Afghanistan",
+                "rms": 0.83,
+                "sig": 1073,
+                "sources": ",us,usauto,pt,at,",
+                "status": "reviewed",
+                "time": 1655844874410,
+                "title": "M 6.0 - 55 km SW of Kh?st, Afghanistan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-text,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1661656790040,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj3u"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    101.29,
+                    37.8283,
+                    13
+                ],
+                "type": "Point"
+            },
+            "id": "us7000g9zq",
+            "properties": {
+                "alert": "orange",
+                "cdi": 8.5,
+                "code": "7000g9zq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000g9zq&format=geojson",
+                "dmin": 2.685,
+                "felt": 14,
+                "gap": 13,
+                "ids": ",us7000g9zq,usauto7000g9zq,at00r5cpbx,pt22007000,",
+                "mag": 6.6,
+                "magType": "mww",
+                "mmi": 8.434,
+                "net": "us",
+                "nst": null,
+                "place": "northern Qinghai, China",
+                "rms": 0.69,
+                "sig": 1012,
+                "sources": ",us,usauto,at,pt,",
+                "status": "reviewed",
+                "time": 1641577530809,
+                "title": "M 6.6 - northern Qinghai, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-text,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1653024937367,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9zq"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    98.2513,
+                    34.5983,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us7000e54r",
+            "properties": {
+                "alert": "orange",
+                "cdi": 9.1,
+                "code": "7000e54r",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000e54r&format=geojson",
+                "dmin": 4.655,
+                "felt": 26,
+                "gap": 9,
+                "ids": ",us7000e54r,usauto7000e54r,pt21141001,at00qtgy75,",
+                "mag": 7.3,
+                "magType": "mww",
+                "mmi": 9.115,
+                "net": "us",
+                "nst": null,
+                "place": "Southern Qinghai, China",
+                "rms": 0.77,
+                "sig": 1024,
+                "sources": ",us,usauto,pt,at,",
+                "status": "reviewed",
+                "time": 1621620253565,
+                "title": "M 7.3 - Southern Qinghai, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-text,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1653024819372,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e54r"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.0082,
+                    25.7274,
+                    9
+                ],
+                "type": "Point"
+            },
+            "id": "us7000e532",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.9,
+                "code": "7000e532",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000e532&format=geojson",
+                "dmin": 4.438,
+                "felt": 21,
+                "gap": 17,
+                "ids": ",us7000e532,usauto7000e532,pt21141000,at00qtgmd3,",
+                "mag": 6.1,
+                "magType": "mww",
+                "mmi": 8.456,
+                "net": "us",
+                "nst": null,
+                "place": "25 km NW of Dali, China",
+                "rms": 0.93,
+                "sig": 1017,
+                "sources": ",us,usauto,pt,at,",
+                "status": "reviewed",
+                "time": 1621604917193,
+                "title": "M 6.1 - 25 km NW of Dali, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,ground-failure,impact-text,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1660021854306,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e532"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    141.7751,
+                    37.7265,
+                    43.98
+                ],
+                "type": "Point"
+            },
+            "id": "us6000dher",
+            "properties": {
+                "alert": "orange",
+                "cdi": 9.1,
+                "code": "6000dher",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000dher&format=geojson",
+                "dmin": 3.085,
+                "felt": 672,
+                "gap": 11,
+                "ids": ",at00qoh0l1,us6000dher,pt21044000,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 8.127,
+                "net": "us",
+                "nst": null,
+                "place": "73 km ENE of Namie, Japan",
+                "rms": 0.94,
+                "sig": 1612,
+                "sources": ",at,us,pt,",
+                "status": "reviewed",
+                "time": 1613225269797,
+                "title": "M 7.1 - 73 km ENE of Namie, Japan",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,general-text,ground-failure,impact-link,impact-text,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1660306212886,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000dher"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.2573,
+                    45.4244,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us6000d3zh",
+            "properties": {
+                "alert": "orange",
+                "cdi": 9.1,
+                "code": "6000d3zh",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000d3zh&format=geojson",
+                "dmin": 0.941,
+                "felt": 1778,
+                "gap": 13,
+                "ids": ",us6000d3zh,at00qm3m56,pt20364001,",
+                "mag": 6.4,
+                "magType": "mww",
+                "mmi": 9.035,
+                "net": "us",
+                "nst": null,
+                "place": "2 km WSW of Petrinja, Croatia",
+                "rms": 0.75,
+                "sig": 1910,
+                "sources": ",us,at,pt,",
+                "status": "reviewed",
+                "time": 1609240794762,
+                "title": "M 6.4 - 2 km WSW of Petrinja, Croatia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,ground-failure,impact-text,internal-origin,losspager,losspager-admin,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1658583508016,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000d3zh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.7838,
+                    37.8973,
+                    21
+                ],
+                "type": "Point"
+            },
+            "id": "us7000c7y0",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.6,
+                "code": "7000c7y0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000c7y0&format=geojson",
+                "dmin": 1.518,
+                "felt": 694,
+                "gap": 18,
+                "ids": ",us7000c7y0,pt20304000,at00qj0jlr,",
+                "mag": 7,
+                "magType": "mww",
+                "mmi": 7.213,
+                "net": "us",
+                "nst": null,
+                "place": "13 km NNE of N\u00e9on Karlov\u00e1sion, Greece",
+                "rms": 0.59,
+                "sig": 1527,
+                "sources": ",us,pt,at,",
+                "status": "reviewed",
+                "time": 1604058687348,
+                "title": "M 7.0 - 13 km NNE of N\u00e9on Karlov\u00e1sion, Greece",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-text,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1667243631035,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000c7y0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0077,
+                    15.8861,
+                    20
+                ],
+                "type": "Point"
+            },
+            "id": "us6000ah9t",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.7,
+                "code": "6000ah9t",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000ah9t&format=geojson",
+                "dmin": 0.151,
+                "felt": 642,
+                "gap": 30,
+                "ids": ",at00qcdxol,pt20175001,us6000ah9t,",
+                "mag": 7.4,
+                "magType": "mww",
+                "mmi": 7.658,
+                "net": "us",
+                "nst": null,
+                "place": "9 km SE of Santa Mar\u00eda Xadani, Mexico",
+                "rms": 1.14,
+                "sig": 1494,
+                "sources": ",at,pt,us,",
+                "status": "reviewed",
+                "time": 1592926144350,
+                "title": "M 7.4 - 9 km SE of Santa Mar\u00eda Xadani, Mexico",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-link,general-text,ground-failure,impact-link,impact-text,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1655918454870,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ah9t"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.7266,
+                    17.937,
+                    9
+                ],
+                "type": "Point"
+            },
+            "id": "pr2020123010",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.4,
+                "code": "2020123010",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2020123010&format=geojson",
+                "dmin": 0.2018,
+                "felt": 708,
+                "gap": 190,
+                "ids": ",pt20123050,us700098mg,pr2020123010,",
+                "mag": 5.4,
+                "magType": "mwp",
+                "mmi": 6.775,
+                "net": "pr",
+                "nst": 24,
+                "place": "6 km S of Tallaboa, Puerto Rico",
+                "rms": 0.21,
+                "sig": 1524,
+                "sources": ",pt,us,pr,",
+                "status": "reviewed",
+                "time": 1588417998680,
+                "title": "M 5.4 - 6 km S of Tallaboa, Puerto Rico",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1646889242349,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2020123010"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.0609,
+                    38.4312,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us60007ewc",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.9,
+                "code": "60007ewc",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us60007ewc&format=geojson",
+                "dmin": 0.87,
+                "felt": 313,
+                "gap": 49,
+                "ids": ",us60007ewc,pt20024000,",
+                "mag": 6.7,
+                "magType": "mww",
+                "mmi": 9.329,
+                "net": "us",
+                "nst": null,
+                "place": "13 km N of Do?anyol, Turkey",
+                "rms": 0.69,
+                "sig": 1247,
+                "sources": ",us,pt,",
+                "status": "reviewed",
+                "time": 1579888514147,
+                "title": "M 6.7 - 13 km N of Do?anyol, Turkey",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-text,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1646888543447,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60007ewc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    77.1084,
+                    39.8353,
+                    5.55
+                ],
+                "type": "Point"
+            },
+            "id": "us60007anp",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.4,
+                "code": "60007anp",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us60007anp&format=geojson",
+                "dmin": 1.964,
+                "felt": 8,
+                "gap": 22,
+                "ids": ",us60007anp,",
+                "mag": 6,
+                "magType": "mww",
+                "mmi": 7.537,
+                "net": "us",
+                "nst": null,
+                "place": "104 km ENE of Kashgar, China",
+                "rms": 0.54,
+                "sig": 1006,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1579440476630,
+                "title": "M 6.0 - 104 km ENE of Kashgar, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1646888455779,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60007anp"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.8266,
+                    17.8686,
+                    8.95
+                ],
+                "type": "Point"
+            },
+            "id": "us70006vll",
+            "properties": {
+                "alert": "orange",
+                "cdi": 8.2,
+                "code": "70006vll",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us70006vll&format=geojson",
+                "dmin": 0.117,
+                "felt": 1610,
+                "gap": 25,
+                "ids": ",us70006vll,pt20007001,pt20007009,at00q3qa0q,pr2020007007,",
+                "mag": 6.4,
+                "magType": "mww",
+                "mmi": 7.868,
+                "net": "us",
+                "nst": null,
+                "place": "13 km SSE of Maria Antonia, Puerto Rico",
+                "rms": 0.64,
+                "sig": 1820,
+                "sources": ",us,pt,pt,at,pr,",
+                "status": "reviewed",
+                "time": 1578385465262,
+                "title": "M 6.4 - 13 km SSE of Maria Antonia, Puerto Rico",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,dyfi,general-link,general-text,ground-failure,impact-link,impact-text,losspager,moment-tensor,oaf,origin,phase-data,poster,shakemap,trump-origin,",
+                "tz": null,
+                "updated": 1667325199281,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006vll"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.5256,
+                    41.5138,
+                    22
+                ],
+                "type": "Point"
+            },
+            "id": "us70006d0m",
+            "properties": {
+                "alert": "orange",
+                "cdi": 9.1,
+                "code": "70006d0m",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us70006d0m&format=geojson",
+                "dmin": 0.936,
+                "felt": 1365,
+                "gap": 17,
+                "ids": ",us70006d0m,",
+                "mag": 6.4,
+                "magType": "mww",
+                "mmi": 8.092,
+                "net": "us",
+                "nst": null,
+                "place": "15 km WSW of Mamurras, Albania",
+                "rms": 0.61,
+                "sig": 1910,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1574736852872,
+                "title": "M 6.4 - 15 km WSW of Mamurras, Albania",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1610800136303,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006d0m"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    47.5814,
+                    37.8026,
+                    20
+                ],
+                "type": "Point"
+            },
+            "id": "us600068w0",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.9,
+                "code": "600068w0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us600068w0&format=geojson",
+                "dmin": 2.752,
+                "felt": 625,
+                "gap": 20,
+                "ids": ",us600068w0,",
+                "mag": 5.9,
+                "magType": "mww",
+                "mmi": 7.3,
+                "net": "us",
+                "nst": null,
+                "place": "59 km NE of Hashtr?d, Iran",
+                "rms": 0.67,
+                "sig": 1494,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1573166827041,
+                "title": "M 5.9 - 59 km NE of Hashtr?d, Iran",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,ground-failure,impact-text,losspager,losspager-admin,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1603540581590,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us600068w0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.7936,
+                    33.0779,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us60005mqp",
+            "properties": {
+                "alert": "orange",
+                "cdi": 6.6,
+                "code": "60005mqp",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us60005mqp&format=geojson",
+                "dmin": 0.72,
+                "felt": 478,
+                "gap": 21,
+                "ids": ",us60005mqp,",
+                "mag": 5.4,
+                "magType": "mww",
+                "mmi": 7.188,
+                "net": "us",
+                "nst": null,
+                "place": "8 km SSE of New Mirpur, Pakistan",
+                "rms": 0.87,
+                "sig": 1315,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1569322914990,
+                "title": "M 5.4 - 8 km SSE of New Mirpur, Pakistan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1603052845449,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60005mqp"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    104.8105,
+                    28.3946,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "us600044mq",
+            "properties": {
+                "alert": "orange",
+                "cdi": 5.8,
+                "code": "600044mq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us600044mq&format=geojson",
+                "dmin": 4.498,
+                "felt": 25,
+                "gap": 38,
+                "ids": ",us600044mq,",
+                "mag": 5.3,
+                "magType": "mww",
+                "mmi": 6.323,
+                "net": "us",
+                "nst": null,
+                "place": "11 km SE of Xunchang, China",
+                "rms": 0.91,
+                "sig": 1014,
+                "sources": ",us,",
+                "status": "reviewed",
+                "time": 1561213796148,
+                "title": "M 5.3 - 11 km SE of Xunchang, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1594402188473,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us600044mq"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.2697,
+                    -5.8119,
+                    122.57
+                ],
+                "type": "Point"
+            },
+            "id": "us60003sc0",
+            "properties": {
+                "alert": "orange",
+                "cdi": 8.9,
+                "code": "60003sc0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us60003sc0&format=geojson",
+                "dmin": 3.18,
+                "felt": 1083,
+                "gap": 17,
+                "ids": ",at00ps3pco,pt19146001,us60003sc0,",
+                "mag": 8,
+                "magType": "mww",
+                "mmi": 7.945,
+                "net": "us",
+                "nst": null,
+                "place": "78 km NE of Navarro, Peru",
+                "rms": 0.84,
+                "sig": 1890,
+                "sources": ",at,pt,us,",
+                "status": "reviewed",
+                "time": 1558856475073,
+                "title": "M 8.0 - 78 km NE of Navarro, Peru",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1655597166103,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60003sc0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.3815,
+                    -30.0404,
+                    63
+                ],
+                "type": "Point"
+            },
+            "id": "us2000j6hy",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.6,
+                "code": "2000j6hy",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000j6hy&format=geojson",
+                "dmin": 0.173,
+                "felt": 789,
+                "gap": 22,
+                "ids": ",at00pllwap,pt19020000,us2000j6hy,",
+                "mag": 6.7,
+                "magType": "mww",
+                "mmi": 7.688,
+                "net": "us",
+                "nst": null,
+                "place": "10 km SSW of Coquimbo, Chile",
+                "rms": 1.47,
+                "sig": 1600,
+                "sources": ",at,pt,us,",
+                "status": "reviewed",
+                "time": 1547947972480,
+                "title": "M 6.7 - 10 km SSW of Coquimbo, Chile",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",dyfi,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1646012870693,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j6hy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.9552,
+                    61.3464,
+                    46.7
+                ],
+                "type": "Point"
+            },
+            "id": "ak018fcnsk91",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.9,
+                "code": "018fcnsk91",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ak018fcnsk91&format=geojson",
+                "dmin": null,
+                "felt": 2337,
+                "gap": null,
+                "ids": ",ak20419010,at00pj0ol4,us1000hyfh,ak018fcnsk91,pt18334000,iscgem616643636,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": 7.696,
+                "net": "ak",
+                "nst": null,
+                "place": "1 km SE of Point MacKenzie, Alaska",
+                "rms": 1.04,
+                "sig": 1790,
+                "sources": ",ak,at,us,ak,pt,iscgem,",
+                "status": "reviewed",
+                "time": 1543598969330,
+                "title": "M 7.1 - 1 km SE of Point MacKenzie, Alaska",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,dyfi,finite-fault,general-link,general-text,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,",
+                "tz": null,
+                "updated": 1668031940754,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak018fcnsk91"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    141.9294,
+                    42.6861,
+                    35
+                ],
+                "type": "Point"
+            },
+            "id": "us2000h8ty",
+            "properties": {
+                "alert": "orange",
+                "cdi": 8.1,
+                "code": "2000h8ty",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000h8ty&format=geojson",
+                "dmin": 1.13,
+                "felt": 93,
+                "gap": 32,
+                "ids": ",us2000h8ty,pt18248000,at00pelgzo,iscgem612697604,",
+                "mag": 6.6,
+                "magType": "mww",
+                "mmi": 8.541,
+                "net": "us",
+                "nst": null,
+                "place": "27 km ESE of Chitose, Japan",
+                "rms": 0.74,
+                "sig": 1075,
+                "sources": ",us,pt,at,iscgem,",
+                "status": "reviewed",
+                "time": 1536170879150,
+                "title": "M 6.6 - 27 km ESE of Chitose, Japan",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,dyfi,general-text,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1651606157651,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.4375,
+                    -8.2581,
+                    34
+                ],
+                "type": "Point"
+            },
+            "id": "us1000g3ub",
+            "properties": {
+                "alert": "orange",
+                "cdi": 8.9,
+                "code": "1000g3ub",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us1000g3ub&format=geojson",
+                "dmin": 2.271,
+                "felt": 791,
+                "gap": 15,
+                "ids": ",us1000g3ub,iscgem612456510,",
+                "mag": 6.9,
+                "magType": "mww",
+                "mmi": 8.052,
+                "net": "us",
+                "nst": null,
+                "place": "36 km NW of Labuan Lombok, Indonesia",
+                "rms": 1.05,
+                "sig": 1704,
+                "sources": ",us,iscgem,",
+                "status": "reviewed",
+                "time": 1533469598630,
+                "title": "M 6.9 - 36 km NW of Labuan Lombok, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1651605960325,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000g3ub"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.2268,
+                    42.6012,
+                    7
+                ],
+                "type": "Point"
+            },
+            "id": "us10007twj",
+            "properties": {
+                "alert": "orange",
+                "cdi": 6,
+                "code": "10007twj",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10007twj&format=geojson",
+                "dmin": 0.149,
+                "felt": 117,
+                "gap": 27,
+                "ids": ",us10007twj,iscgem611831611,",
+                "mag": 5.7,
+                "magType": "mww",
+                "mmi": 6.475,
+                "net": "us",
+                "nst": null,
+                "place": "5 km ESE of Cittareale, Italy",
+                "rms": 0.55,
+                "sig": 1070,
+                "sources": ",us,iscgem,",
+                "status": "reviewed",
+                "time": 1484734450980,
+                "title": "M 5.7 - 5 km ESE of Cittareale, Italy",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",dyfi,general-text,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1651604241108,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10007twj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    173.054,
+                    -42.7373,
+                    15.11
+                ],
+                "type": "Point"
+            },
+            "id": "us1000778i",
+            "properties": {
+                "alert": "orange",
+                "cdi": 9.1,
+                "code": "1000778i",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us1000778i&format=geojson",
+                "dmin": 0.481,
+                "felt": 599,
+                "gap": 21,
+                "ids": ",at00ogkuoy,us1000778i,iscgem615035032,atlas20161113110256,",
+                "mag": 7.8,
+                "magType": "mww",
+                "mmi": 8.539,
+                "net": "us",
+                "nst": null,
+                "place": "53 km NNE of Amberley, New Zealand",
+                "rms": 0.56,
+                "sig": 1545,
+                "sources": ",at,us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1479034976340,
+                "title": "M 7.8 - 53 km NNE of Amberley, New Zealand",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1651591689244,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000778i"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.0528,
+                    42.858,
+                    6
+                ],
+                "type": "Point"
+            },
+            "id": "us20007guy",
+            "properties": {
+                "alert": "orange",
+                "cdi": 6.7,
+                "code": "20007guy",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20007guy&format=geojson",
+                "dmin": 0.051,
+                "felt": 310,
+                "gap": 32,
+                "ids": ",us20007guy,gcmt20161026171037,iscgem611830883,",
+                "mag": 5.5,
+                "magType": "mww",
+                "mmi": 7.492,
+                "net": "us",
+                "nst": null,
+                "place": "2 km SSE of Preci, Italy",
+                "rms": 0.88,
+                "sig": 1208,
+                "sources": ",us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 1477501837210,
+                "title": "M 5.5 - 2 km SSE of Preci, Italy",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1651604145647,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20007guy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.8092,
+                    35.3743,
+                    5.63
+                ],
+                "type": "Point"
+            },
+            "id": "us20007fta",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.5,
+                "code": "20007fta",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20007fta&format=geojson",
+                "dmin": 0.68,
+                "felt": 204,
+                "gap": 23,
+                "ids": ",us20007fta,at00ofdswb,pt16295050,gcmt20161021050723,iscgem611830857,",
+                "mag": 6.2,
+                "magType": "mww",
+                "mmi": 7.203,
+                "net": "us",
+                "nst": null,
+                "place": "6 km S of Kurayoshi, Japan",
+                "rms": 0.75,
+                "sig": 1153,
+                "sources": ",us,at,pt,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 1477026442990,
+                "title": "M 6.2 - 6 km S of Kurayoshi, Japan",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,cap,dyfi,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1651604143265,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20007fta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9218,
+                    0.3819,
+                    20.59
+                ],
+                "type": "Point"
+            },
+            "id": "us20005j32",
+            "properties": {
+                "alert": "orange",
+                "cdi": 8.6,
+                "code": "20005j32",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005j32&format=geojson",
+                "dmin": 1.44,
+                "felt": 190,
+                "gap": 15,
+                "ids": ",at00o5r3xd,us20005j32,pt16107050,gcmt20160416235837,iscgem608556966,atlas20160416235836,",
+                "mag": 7.8,
+                "magType": "mww",
+                "mmi": 8.51,
+                "net": "us",
+                "nst": null,
+                "place": "27 km SSE of Muisne, Ecuador",
+                "rms": 0.94,
+                "sig": 1163,
+                "sources": ",at,us,pt,gcmt,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1460851116980,
+                "title": "M 7.8 - 27 km SSE of Muisne, Ecuador",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-text,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1651599862746,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005j32"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    172.7715,
+                    -43.4798,
+                    7.63
+                ],
+                "type": "Point"
+            },
+            "id": "us20005019",
+            "properties": {
+                "alert": "orange",
+                "cdi": 6.9,
+                "code": "20005019",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20005019&format=geojson",
+                "dmin": 0.241,
+                "felt": 23,
+                "gap": 33,
+                "ids": ",gcmt20160214001343,us20005019,iscgem608330826,atlas20160214001344,",
+                "mag": 5.8,
+                "magType": "mww",
+                "mmi": 7.716,
+                "net": "us",
+                "nst": null,
+                "place": "12 km ENE of Christchurch, New Zealand",
+                "rms": 0.9,
+                "sig": 1016,
+                "sources": ",gcmt,us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1455408824040,
+                "title": "M 5.8 - 12 km ENE of Christchurch, New Zealand",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,cap,dyfi,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1651599658334,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005019"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    93.6505,
+                    24.8036,
+                    55
+                ],
+                "type": "Point"
+            },
+            "id": "us10004b2n",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.6,
+                "code": "10004b2n",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10004b2n&format=geojson",
+                "dmin": 1.794,
+                "felt": 677,
+                "gap": 16,
+                "ids": ",us10004b2n,gcmt20160103230522,iscgem612140990,atlas20160103230522,",
+                "mag": 6.7,
+                "magType": "mww",
+                "mmi": 6.926,
+                "net": "us",
+                "nst": null,
+                "place": "29 km W of Imph?l, India",
+                "rms": 1.01,
+                "sig": 1515,
+                "sources": ",us,gcmt,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1451862322270,
+                "title": "M 6.7 - 29 km W of Imph?l, India",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-text,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1651605528489,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10004b2n"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.6,
+                    38.67,
+                    11
+                ],
+                "type": "Point"
+            },
+            "id": "us10003ywp",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.2,
+                "code": "10003ywp",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10003ywp&format=geojson",
+                "dmin": null,
+                "felt": 25,
+                "gap": null,
+                "ids": ",us10003ywp,gcmt20151117071007,iscgem612296376,atlas20151117071007,",
+                "mag": 6.5,
+                "magType": "mww",
+                "mmi": 7.348,
+                "net": "us",
+                "nst": null,
+                "place": "19 km SSW of Lefk\u00e1da, Greece",
+                "rms": 0.98,
+                "sig": 1018,
+                "sources": ",us,gcmt,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1447744207300,
+                "title": "M 6.5 - 19 km SSW of Lefk\u00e1da, Greece",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,general-text,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1659377690537,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10003ywp"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    70.3676,
+                    36.5244,
+                    231
+                ],
+                "type": "Point"
+            },
+            "id": "us10003re5",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.9,
+                "code": "10003re5",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us10003re5&format=geojson",
+                "dmin": 0.622,
+                "felt": 567,
+                "gap": 18,
+                "ids": ",us10003re5,gcmt20151026090942,atlas20151026090942,",
+                "mag": 7.5,
+                "magType": "mww",
+                "mmi": 6.939,
+                "net": "us",
+                "nst": null,
+                "place": "Hindu Kush region, Afghanistan",
+                "rms": 1.43,
+                "sig": 1448,
+                "sources": ",us,gcmt,atlas,",
+                "status": "reviewed",
+                "time": 1445850582560,
+                "title": "M 7.5 - Hindu Kush region, Afghanistan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-text,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1668357227335,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10003re5"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.6744,
+                    -31.5729,
+                    22.44
+                ],
+                "type": "Point"
+            },
+            "id": "us20003k7a",
+            "properties": {
+                "alert": "orange",
+                "cdi": 9,
+                "code": "20003k7a",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20003k7a&format=geojson",
+                "dmin": 0.684,
+                "felt": 1206,
+                "gap": 19,
+                "ids": ",us20003k7a,at00nuskyv,pt15259054,gcmt20150916225433,iscgem611531714,atlas20150916225432,",
+                "mag": 8.3,
+                "magType": "mww",
+                "mmi": 8.189,
+                "net": "us",
+                "nst": null,
+                "place": "48 km W of Illapel, Chile",
+                "rms": 1.02,
+                "sig": 1960,
+                "sources": ",us,at,pt,gcmt,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1442444072860,
+                "title": "M 8.3 - 48 km W of Illapel, Chile",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,cap,dyfi,finite-fault,general-link,general-text,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,",
+                "tz": null,
+                "updated": 1658092169906,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20003k7a"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    86.0655,
+                    27.8087,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "us20002ejl",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.7,
+                "code": "20002ejl",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us20002ejl&format=geojson",
+                "dmin": 0.677,
+                "felt": 731,
+                "gap": 11,
+                "ids": ",us20002ejl,gcmt20150512070519,iscgem610588278,atlas20150512070519,",
+                "mag": 7.3,
+                "magType": "mww",
+                "mmi": 7.495,
+                "net": "us",
+                "nst": null,
+                "place": "Nepal",
+                "rms": 0.92,
+                "sig": 1563,
+                "sources": ",us,gcmt,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1431414319730,
+                "title": "M 7.3 - Nepal",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,finite-fault,general-link,general-text,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,",
+                "tz": null,
+                "updated": 1651602285792,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002ejl"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.4702,
+                    23.3834,
+                    8.51
+                ],
+                "type": "Point"
+            },
+            "id": "usb000sjim",
+            "properties": {
+                "alert": "orange",
+                "cdi": 3.8,
+                "code": "b000sjim",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000sjim&format=geojson",
+                "dmin": 2.7,
+                "felt": 8,
+                "gap": 23,
+                "ids": ",usb000sjim,iscgem605504658,atlas20141007134939,",
+                "mag": 6.1,
+                "magType": "mww",
+                "mmi": 7.291,
+                "net": "us",
+                "nst": null,
+                "place": "125 km SW of Jianshui, China",
+                "rms": 0.8,
+                "sig": 1003,
+                "sources": ",us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1412689779720,
+                "title": "M 6.1 - 125 km SW of Jianshui, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1658895620159,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000sjim"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4614,
+                    14.724,
+                    53
+                ],
+                "type": "Point"
+            },
+            "id": "usc000rr6a",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.7,
+                "code": "c000rr6a",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000rr6a&format=geojson",
+                "dmin": 0.263,
+                "felt": 103,
+                "gap": 51,
+                "ids": ",pt14188002,at00n8caby,usc000rr6a,iscgem610571023,atlas20140707112354,",
+                "mag": 6.9,
+                "magType": "mww",
+                "mmi": 6.939,
+                "net": "us",
+                "nst": null,
+                "place": "4 km W of Puerto Madero, Mexico",
+                "rms": 1.38,
+                "sig": 1079,
+                "sources": ",pt,at,us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1404732234780,
+                "title": "M 6.9 - 4 km W of Puerto Madero, Mexico",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",cap,dyfi,impact-link,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1659832444005,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000rr6a"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.4528,
+                    38.2082,
+                    8
+                ],
+                "type": "Point"
+            },
+            "id": "usb000m8ch",
+            "properties": {
+                "alert": "orange",
+                "cdi": 8.3,
+                "code": "b000m8ch",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000m8ch&format=geojson",
+                "dmin": 1.555,
+                "felt": 26,
+                "gap": 36,
+                "ids": ",usb000m8ch,iscgem609700773,atlas20140126135542,",
+                "mag": 6.1,
+                "magType": "mww",
+                "mmi": 6.801,
+                "net": "us",
+                "nst": null,
+                "place": "1 km ENE of Lixo\u00fari, Greece",
+                "rms": 0.81,
+                "sig": 1022,
+                "sources": ",us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1390744542210,
+                "title": "M 6.1 - 1 km ENE of Lixo\u00fari, Greece",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1658815354943,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000m8ch"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    51.31,
+                    29.32,
+                    8
+                ],
+                "type": "Point"
+            },
+            "id": "usb000l7nt",
+            "properties": {
+                "alert": "orange",
+                "cdi": 5,
+                "code": "b000l7nt",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000l7nt&format=geojson",
+                "dmin": null,
+                "felt": 11,
+                "gap": null,
+                "ids": ",usb000l7nt,iscgem603820291,atlas20131128135134,",
+                "mag": 5.8,
+                "magType": "mwb",
+                "mmi": 6.986,
+                "net": "us",
+                "nst": null,
+                "place": "10 km ENE of Bor?zj?n, Iran",
+                "rms": 1.01,
+                "sig": 1006,
+                "sources": ",us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1385646694000,
+                "title": "M 5.8 - 10 km ENE of Bor?zj?n, Iran",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1658803159975,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000l7nt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    124.1167,
+                    9.8796,
+                    19.04
+                ],
+                "type": "Point"
+            },
+            "id": "usb000kdb4",
+            "properties": {
+                "alert": "orange",
+                "cdi": 9.1,
+                "code": "b000kdb4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000kdb4&format=geojson",
+                "dmin": 3.144,
+                "felt": 101,
+                "gap": 12,
+                "ids": ",usb000kdb4,pt13288000,at00muool4,iscgem609078498,atlas20131015001232,",
+                "mag": 7.1,
+                "magType": "mww",
+                "mmi": 8.16,
+                "net": "us",
+                "nst": null,
+                "place": "4 km SE of Sagbayan, Philippines",
+                "rms": 1.3,
+                "sig": 1092,
+                "sources": ",us,pt,at,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1381795952050,
+                "title": "M 7.1 - 4 km SE of Sagbayan, Philippines",
+                "tsunami": 1,
+                "type": "earthquake",
+                "types": ",associate,cap,dyfi,finite-fault,general-text,impact-link,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1659809924749,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000kdb4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    65.5052,
+                    27.1825,
+                    12
+                ],
+                "type": "Point"
+            },
+            "id": "usb000k1gb",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7,
+                "code": "b000k1gb",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000k1gb&format=geojson",
+                "dmin": 7.359,
+                "felt": 7,
+                "gap": 17,
+                "ids": ",usb000k1gb,iscgem609059670,atlas20130928073406,",
+                "mag": 6.8,
+                "magType": "mww",
+                "mmi": 6.783,
+                "net": "us",
+                "nst": null,
+                "place": "129 km WSW of Khuzdar, Pakistan",
+                "rms": 0.91,
+                "sig": 1005,
+                "sources": ",us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1380353646450,
+                "title": "M 6.8 - 129 km WSW of Khuzdar, Pakistan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "tz": null,
+                "updated": 1658790072781,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000k1gb"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.498,
+                    16.8784,
+                    21
+                ],
+                "type": "Point"
+            },
+            "id": "usb000j83t",
+            "properties": {
+                "alert": "orange",
+                "cdi": 8.3,
+                "code": "b000j83t",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000j83t&format=geojson",
+                "dmin": 0.755,
+                "felt": 149,
+                "gap": 45,
+                "ids": ",usb000j83t,iscgem608588091,atlas20130821123829,",
+                "mag": 6.2,
+                "magType": "mww",
+                "mmi": 6.628,
+                "net": "us",
+                "nst": null,
+                "place": "5 km ESE of Barrio Nuevo de los Muertos, Mexico",
+                "rms": 1,
+                "sig": 1124,
+                "sources": ",us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1377088709700,
+                "title": "M 6.2 - 5 km ESE of Barrio Nuevo de los Muertos, Mexico",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,losspager,moment-tensor,origin,phase-data,scitech-link,shakemap,",
+                "tz": null,
+                "updated": 1659806104122,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000j83t"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    104.262,
+                    34.512,
+                    8
+                ],
+                "type": "Point"
+            },
+            "id": "usb000ije3",
+            "properties": {
+                "alert": "orange",
+                "cdi": 6.8,
+                "code": "b000ije3",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000ije3&format=geojson",
+                "dmin": null,
+                "felt": 23,
+                "gap": 10,
+                "ids": ",usb000ije3,iscgem608441184,atlas20130721234556,",
+                "mag": 5.9,
+                "magType": "mww",
+                "mmi": 7.288,
+                "net": "us",
+                "nst": 276,
+                "place": "60 km W of Mawu, China",
+                "rms": 0.8,
+                "sig": 1016,
+                "sources": ",us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1374450356660,
+                "title": "M 5.9 - 60 km W of Mawu, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,focal-mechanism,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,",
+                "tz": null,
+                "updated": 1658774900707,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000ije3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    51.593,
+                    28.428,
+                    12
+                ],
+                "type": "Point"
+            },
+            "id": "usb000g2y5",
+            "properties": {
+                "alert": "orange",
+                "cdi": 4.5,
+                "code": "b000g2y5",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usb000g2y5&format=geojson",
+                "dmin": null,
+                "felt": 124,
+                "gap": 20.6,
+                "ids": ",usb000g2y5,iscgem607304565,atlas20130409115250,",
+                "mag": 6.4,
+                "magType": "mww",
+                "mmi": 7.552,
+                "net": "us",
+                "nst": 427,
+                "place": "95 km SE of Bushehr, Iran",
+                "rms": 0.83,
+                "sig": 1056,
+                "sources": ",us,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 1365508369920,
+                "title": "M 6.4 - 95 km SE of Bushehr, Iran",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",cap,dyfi,focal-mechanism,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,",
+                "tz": null,
+                "updated": 1659797116847,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000g2y5"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.23,
+                    44.89,
+                    6.3
+                ],
+                "type": "Point"
+            },
+            "id": "usp000jkn8",
+            "properties": {
+                "alert": "orange",
+                "cdi": 7.7,
+                "code": "p000jkn8",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000jkn8&format=geojson",
+                "dmin": null,
+                "felt": 2224,
+                "gap": 11.5,
+                "ids": ",usp000jkn8,usb0009tk0,choy20120520020352,iscgem601025379,atlas20120520020352,atlas20120520020351,",
+                "mag": 6,
+                "magType": "mww",
+                "mmi": 6.411,
+                "net": "us",
+                "nst": 729,
+                "place": "4 km NNE of Massa Finalese, Italy",
+                "rms": null,
+                "sig": 1770,
+                "sources": ",us,us,choy,iscgem,atlas,atlas,",
+                "status": "reviewed",
+                "time": 1337479432000,
+                "title": "M 6.0 - 4 km NNE of Massa Finalese, Italy",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,dyfi,focal-mechanism,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,",
+                "tz": null,
+                "updated": 1651592401899,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jkn8"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.13.6",
+        "count": 44,
+        "generated": 1668533945000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&alertlevel=orange&starttime=2002-10-02&endtime=2022-11-02"
+    },
+    "type": "FeatureCollection"
+}
